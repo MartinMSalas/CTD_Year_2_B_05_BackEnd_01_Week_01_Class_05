@@ -14,7 +14,7 @@ Pensemos en una aplicación al estilo Google Drive, un servicio que nos trae doc
  */
 class MainTest {
 
- 
+
   @Test
   public void testProxyDriveDocumentAccessRecorded(){
     // Given
